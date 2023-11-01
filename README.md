@@ -50,4 +50,26 @@ Since I used only 5 classes of the 6 that the dataset offers and I balanced the 
 
 P.S.: I should also say that the training took us 8 hours in total, as the best hyperparameter to do the training with was first searched for.
 
+## Performing Model Inference
+
+Now that the model is trained and saved, we can do model inference, so we can test that it works; to run that inference project, make sure you have the following dependencies installed.
+
+- Python 3
+- tensorFlow
+- tensorflow.keras.preprocessing
+- numpy
+
+## Usage
+Follow these steps to use the project:
+
+- Set up the required libraries and dependencies.
+- Set an image path.
+- Load and prepare the image for inference.
+- Performs the prediction.
+- Get the predicted class.
+
+## Feedback
+
+If you have any feedback, please reach me out at mastijaci99@gmail.com
+
 
