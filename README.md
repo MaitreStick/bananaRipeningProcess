@@ -1,6 +1,14 @@
 
 # Banana Ripening Process
 
+<a href="[https://universe.roboflow.com/april-public-yibrz/never-gonna](https://universe.roboflow.com/fruit-ripening/banana-ripening-process)">
+    <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
+</a>
+
+<a href="[https://universe.roboflow.com/april-public-yibrz/never-gonna/model/](https://universe.roboflow.com/fruit-ripening/banana-ripening-process/model/2)">
+    <img src="https://app.roboflow.com/images/try-model-badge.svg"></img>
+</a>
+
 This project aims to classify banana images according to their maturity using a deep learning model. It involves data preprocessing, model building using TensorFlow and Keras, class balancing, hyperparameter tuning and saving of the trained model. 
 
 ## Dataset
