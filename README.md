@@ -52,7 +52,7 @@ P.S.: I should also say that the training took us 8 hours in total, as the best 
 
 ## Performing Model Inference
 
-Now that the model is trained and saved, we can do model inference, so we can test that it works; to run that inference project, make sure you have the following dependencies installed.
+Now that the model is trained and saved, we can perform model inference, so we can test that it works; to run that inference project, make sure you have the following dependencies installed.
 
 - Python 3
 - tensorFlow
