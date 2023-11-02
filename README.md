@@ -69,7 +69,10 @@ Follow these steps to use the project:
 - Get the predicted class.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> d75449c (Update Readme andbot process)
 ## Implementation
 
 For the implementation of the model with a client that can be used by any user, I used the telegram api, BotFather.
@@ -92,7 +95,10 @@ P.S.: You can find all these steps at https://www.freecodecamp.org/news/how-to-c
 
 Having the code with which to perform the model inference and the token together with the bot working, what we have to do is to put both parts together and test, the code for reference is `banana_ripness_bot_telegram.py` 
 
+<<<<<<< HEAD
 >>>>>>> ecab5e5 (client)
+=======
+>>>>>>> d75449c (Update Readme andbot process)
 ## Feedback
 
 If you have any feedback, please reach me out at mastijaci99@gmail.com
