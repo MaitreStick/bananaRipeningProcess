@@ -48,7 +48,7 @@ def photo(message):
     img = image.load_img(imgPath, target_size=(224, 224))
     img_array = image.img_to_array(img)
     img_array = np.expand_dims(img_array, axis=0)
-    img_array = img_array / 255.
+    img_array = img_array / 255
     
     predictions = model.predict(img_array)
     class_dict = {0: 'freshripe', 1: 'freshunripe', 2: 'overripe', 3: 'ripe', 4: 'rotten'}
